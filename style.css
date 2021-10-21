@@ -1,0 +1,20 @@
+body {
+    /* Facebook Main Color */
+    background-color: #4267B2 !important;
+}
+img {
+    padding: 15px;
+}
+.responsive {
+    max-width: 75%;
+    height: auto;
+}
+.displayBox {
+    width: 100%;
+}
+.scroll-box{
+    float: left;
+    height: 500px;
+    padding: 1rem;
+    overflow-y: auto;
+}
